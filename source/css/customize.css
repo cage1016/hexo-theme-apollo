@@ -22,3 +22,6 @@
 .tag-link:hover {
     font-weight: 700;
 }
+#footnotes hr {
+    border-top: 1px solid #ddd;
+}
